@@ -441,6 +441,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0Solution Items", "0Solution Items", "{ABF81409-9E50-48BE-B11F-8D97CCE183BE}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
 		README.md = README.md
 		release.ps1 = release.ps1
 		update_READMEs.ps1 = update_READMEs.ps1
